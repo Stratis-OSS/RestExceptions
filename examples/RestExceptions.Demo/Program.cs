@@ -65,3 +65,6 @@ app.UseExceptionHandler();
 app.UseHttpsRedirection();
 
 app.Run();
+
+// Needed so WebApplicationFactory<T> in tests can find the entry point
+public partial class Program;
