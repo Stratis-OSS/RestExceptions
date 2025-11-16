@@ -2,10 +2,10 @@
   <PropertyGroup>
     <PackageId>RestExceptions</PackageId>
     <Title>RestExceptions</Title>
-    <Version>9.0.9</Version>
+    <Version>9.0.11</Version>
 
     <Authors>Stratis-Dermanoutsos</Authors>
-    <Company>Stratis-Dermanoutsos</Company>
+    <Company>Stratis-OSS</Company>
 
     <Copyright>Copyright © Stratis Dermanoutsos 2025</Copyright>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
