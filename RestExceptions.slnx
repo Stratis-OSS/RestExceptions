@@ -1,6 +1,6 @@
 ﻿<Solution>
   <Folder Name="/examples/">
-    <Project Path="examples\RestExceptions.Demo\RestExceptions.Demo.csproj" Type="C#" />
+    <Project Path="examples\RestExceptions.Demo\RestExceptions.Demo.csproj" />
   </Folder>
   <Folder Name="/solution/">
     <File Path=".editorconfig" />
@@ -13,7 +13,13 @@
     <File Path=".github/CODEOWNERS" />
     <File Path="README.md" />
   </Folder>
+  <Folder Name="/solution/git/workflows/">
+    <File Path=".github/workflows/CI.yml" />
+  </Folder>
   <Folder Name="/src/">
-    <Project Path="src\RestExceptions\RestExceptions.csproj" Type="C#" />
+    <Project Path="src\RestExceptions\RestExceptions.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RestExceptions.IntegrationTests/RestExceptions.IntegrationTests.csproj" />
   </Folder>
 </Solution>

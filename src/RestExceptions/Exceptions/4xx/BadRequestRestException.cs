@@ -10,6 +10,6 @@ public class BadRequestRestException(
 {
     public static string DefaultMessage => "Malformed request syntax.";
 
-    public override string Title => "Bad request";
+    public override string Title => "Bad Request";
     public override HttpStatusCode StatusCode => HttpStatusCode.BadRequest;
 }
