@@ -1,6 +1,6 @@
 ﻿<Solution>
   <Folder Name="/examples/">
-    <Project Path="examples\RestExceptions.Demo\RestExceptions.Demo.csproj" Type="Classic C#" />
+    <Project Path="examples\RestExceptions.Demo\RestExceptions.Demo.csproj" Type="C#" />
   </Folder>
   <Folder Name="/solution/">
     <File Path=".editorconfig" />
@@ -14,6 +14,6 @@
     <File Path="README.md" />
   </Folder>
   <Folder Name="/src/">
-    <Project Path="src\RestExceptions\RestExceptions.csproj" Type="Classic C#" />
+    <Project Path="src\RestExceptions\RestExceptions.csproj" Type="C#" />
   </Folder>
 </Solution>
