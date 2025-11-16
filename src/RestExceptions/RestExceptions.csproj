@@ -16,7 +16,7 @@
     <Description>Extensible Web API middleware that maps all exceptions to standardized RFC7807-compliant HTTP responses.</Description>
     <PackageTags>open-source http oss rest errors csharp dotnet exceptions problem-details rfc7807</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageReleaseNotes>* Updated dependencies to latest versions.
+    <PackageReleaseNotes>* Upgraded to .NET 10 and C# 14.
     </PackageReleaseNotes>
 
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
